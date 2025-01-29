@@ -1,0 +1,7 @@
+HTML
+<img src="Me.jpg" alt="Image description" />
+
+CSS
+.myImage {
+  background-image: url("Me.jpg");
+}
