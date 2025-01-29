@@ -1,0 +1,111 @@
+body{
+  background-color:#e6e4e4;
+  border-style:solid;
+  border-color:dimgrey;
+  border-width:4px;
+  margin:10px;
+}
+
+p {
+  color: black;
+  font-family:sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+.title{ 
+  font-weight: bold;
+  text-align: center;
+  }
+
+
+.intro{
+ text-align: center;
+}
+
+.me{
+  text-align: center;
+  margin: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+
+li{
+  font-size:20px;
+  text-align: center;
+  padding: 10px;
+}
+
+a:hover{
+  color:green
+}
+
+a:active{
+color: red;
+  border-color:green;
+}
+
+a {
+  color:black;
+  border-style: solid;
+  border-color:red;
+  border-radius: 15px;
+  padding:7px;
+  text-decoration: none;
+}
+
+.links{
+text-align: center;
+  margin-bottom: 10px;
+  
+
+}
+
+img {
+  width:500px;
+  height:400px;
+  margin:25px;
+  border-style:solid;
+  border-width:5px; 
+  display:flex;
+  border-radius: 20px;
+}
+
+
+
+.experiences{
+  width:300px;
+  height:500px;
+  float: left; 
+} 
+
+.container { 
+  float:left;   
+  border-style:solid;  
+  border-color:dimgrey;   
+  border-width:4px;   
+  margin:10px;    
+} 
+
+.container1{   
+  float: left;
+  border-style:solid;  
+  border-color:dimgrey;   
+  border-width:4px;   
+  margin:10px; }
+
