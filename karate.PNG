@@ -1,0 +1,7 @@
+HTML
+<img src="karate.PNG" alt="Image description" />
+
+CSS
+.myImage {
+  background-image: url("karate.PNG");
+}
